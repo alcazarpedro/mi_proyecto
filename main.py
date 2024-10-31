@@ -5,3 +5,6 @@ def suma (a,b):
 x= 12
 y=23
 print(f'la suma es: {suma(x,y)}')
+
+def resta(a,b):
+   pass
