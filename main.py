@@ -7,4 +7,9 @@ y=23
 print(f'la suma es: {suma(x,y)}')
 
 def resta(a,b):
-   pass
+   result = a-b
+   return result
+
+a = 123
+b = 78
+print(f'la resta es : {resta(a,b)}')   
