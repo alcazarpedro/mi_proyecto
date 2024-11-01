@@ -13,3 +13,11 @@ def resta(a,b):
 a = 123
 b = 78
 print(f'la resta es : {resta(a,b)}')   
+
+def multiplicacion(x,y):
+    producto = x*y
+    return producto
+
+x = 9
+y= 8
+print(f'producto: {multiplicacion(x,y)}')
